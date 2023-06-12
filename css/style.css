@@ -42,3 +42,25 @@ th{
 .colored-raw{
     background-color: aqua;
 }
+
+.monitor{
+    background-size: contain;
+    background-image: url(../img/monitor.jpg);
+    width: 350px;
+  height: 250px;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 25px;
+}
+
+.graphic{
+    background-size: contain;
+    background-image: url(../img/graph.jpg);
+    width: 350px;
+  height: 250px;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 25px;
+}
