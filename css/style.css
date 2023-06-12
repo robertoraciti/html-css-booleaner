@@ -28,3 +28,6 @@
     font-size: 12px;
     margin: 0;
 }
+.highlightedtext {
+    background-color: yellow;
+}
