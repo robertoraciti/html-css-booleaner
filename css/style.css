@@ -10,11 +10,11 @@
     
 }
 
-.secondaryinformation {
+.secondary-information {
     color: grey;
     margin: 0;
 }
-.importanttext{
+.important-text{
     font-size: 35px;
     margin-bottom: 0;
 }
@@ -28,6 +28,17 @@
     font-size: 12px;
     margin: 0;
 }
-.highlightedtext {
+.highlighted-text {
     background-color: yellow;
+}
+table{
+    width: 100%;
+}
+th{
+    background-color:  rgb(114, 144, 228);
+    color: white;
+    width: 33%
+}
+.colored-raw{
+    background-color: aqua;
 }
