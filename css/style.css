@@ -9,3 +9,22 @@
     margin-top: 50px;
     
 }
+
+.secondaryinformation {
+    color: grey;
+    margin: 0;
+}
+.importanttext{
+    font-size: 35px;
+    margin-bottom: 0;
+}
+#date {
+    color: grey;
+    margin-top: 0;
+    font-size: 12px;
+}
+
+.captions {
+    font-size: 12px;
+    margin: 0;
+}
